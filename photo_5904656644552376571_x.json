@@ -1,0 +1,18 @@
+{
+    "image_name": "photo_5904656644552376571_x.jpg",
+    "confidence_scores": {
+        "dog": 0.004910268820822239,
+        "car": 0.06051694601774216,
+        "tree": 0.017747515812516212,
+        "person": 0.4648989140987396,
+        "bicycle": 0.016277292743325233,
+        "playing fetch": 0.003318125382065773,
+        "driving": 0.0027884531300514936,
+        "walking": 0.12598508596420288,
+        "riding a bicycle": 0.03857108950614929,
+        "leisure time in a park": 0.2374752163887024,
+        "morning commute": 0.0026173715014010668,
+        "outdoor exercise": 0.02489384636282921
+    },
+    "summary": "This image likely contains person and shows walking in a context of leisure time in a park."
+}
